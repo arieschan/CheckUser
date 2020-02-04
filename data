@@ -1,0 +1,58 @@
+{
+  "event_raid": {
+    "2": {
+      "name": "Standart"
+    },
+    "5": {
+      "name": "Expert"
+    },
+    "6": {
+      "name": "Ragnarok"
+    }
+  },
+  "event_quest": {
+    "1": {
+      "name": "Beginner"
+    },
+    "2": {
+      "name": "Standard"
+    },
+    "3": {
+      "name": "Expert"
+    },
+    "4": {
+      "name": "Ultimate"
+    },
+    "5": {
+      "name": "Ragnarok"
+    }
+  },
+  "event_story": {
+    "1": {
+      "name": "Beginner"
+    },
+    "2": {
+      "name": "Standard"
+    },
+    "3": {
+      "name": "Expert"
+    },
+    "4": {
+      "name": "Ultimate"
+    },
+    "5": {
+      "name": "Ragnarok"
+    }
+  },
+  "event_union": {
+    "1": {
+      "name": "Standard"
+    },
+    "2": {
+      "name": "Expert"
+    }
+  },
+  "raid": {},
+  "daily": {},
+  "accessory": {}
+}
